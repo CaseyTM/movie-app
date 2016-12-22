@@ -1,20 +1,16 @@
 body{
-	background-color: yellow;
+	
 }
 .img{
-	max-width: 300px;
+	/* max-width: 300px; */
 }
 .description{
-	width: 100%;
-	height: 300px;
-}
-.movieId{
-	/* display: none; */
+/* 	width: 100%;
+	height: 300px; */
 }
 .movie-wrapper{
-	background-color: green;
-	width: 300px;
-	margin: 3px;
-	padding: 3px;
+
+/* 	width: 300px; */
+
 }
 
