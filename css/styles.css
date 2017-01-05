@@ -13,4 +13,6 @@ body{
 /* 	width: 300px; */
 
 }
-
+#movie-grid, .col-sm-3{
+	border: 20px solid black;
+}
